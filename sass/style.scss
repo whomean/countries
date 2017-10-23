@@ -1,0 +1,26 @@
+ul {
+  list-style-type: none;
+}
+.country {
+  border: 1px solid red;
+  margin-bottom: 15px;
+  padding: 20px;
+  ul li:nth-child(2) {
+    color: red;
+    font-size: 40px;
+  }
+}
+.flag {
+  display: inline-block;
+  margin-right: 25px;
+  width: 160px;
+  height: 100px;
+  border: 1px solid black;
+  img {
+    width: 160px;
+    height: 100px;
+  }
+}
+.country_name {
+  display: inline-block;
+}
