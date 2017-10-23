@@ -22,4 +22,8 @@ ul {
 .country_name {
   display: inline-block; }
 
+.error {
+  color: #D8000C;
+  background-color: #FFD2D2; }
+
 /*# sourceMappingURL=style.css.map */
